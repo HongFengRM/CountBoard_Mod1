@@ -1,5 +1,5 @@
 CountBoard 是一个基于Tkinter开源的桌面日程倒计时应用。 
-
+### 本repo是红枫自己瞎改的 ###
 
 ## 基本功能 
 
@@ -19,39 +19,15 @@ CountBoard 是一个基于Tkinter开源的桌面日程倒计时应用。
 * 磁贴主题
    * 嵌入桌面：绑定到桌面。    
    * 独立窗体：独立的窗体，可以设置置顶等。      
-   
-## 预览图
 
-![预览图](https://pic.imgdb.cn/item/61a889432ab3f51d9190ca1b.pngg) 
-
-![预览图](https://pic.imgdb.cn/item/61a876552ab3f51d9183e286.png)  
-
-![预览图](https://pic.imgdb.cn/item/61a876552ab3f51d9183e294.png)  
-
-![预览图](https://pic.imgdb.cn/item/61a876552ab3f51d9183e2a0.png)
-
-![预览图](https://pic.imgdb.cn/item/61a876552ab3f51d9183e2a6.png) 
-
-![预览图](https://pic.imgdb.cn/item/61a876ae2ab3f51d9184183f.png) 
-
-
-
-## 其他说明
-* 美化包: [ttkbootstrap](https://github.com/israel-dryer/ttkbootstrap)
-* 托盘图标: [pywin10](https://github.com/Gaoyongxian666/pywin10)
-* 数据存储: [sqlitedict](https://github.com/Gaoyongxian666/pywin10)
-
-## 下载地址
-### 2021-12-02更新 1.3.0.2
-* [安装包](https://gaoyongxian.lanzouo.com/iBR5lx63n2h)
-* [便携版](https://gaoyongxian.lanzouo.com/ixsSax63kgd)
-* [32位版](https://gaoyongxian.lanzouo.com/iTwuNx63l7a)
 
 ## 贡献者(欢迎PR)
 * [rtrobin](https://github.com/rtrobin)
    * Use cx-freeze package to freeze application.
 
 ## 更新日志
+下面为原repo的更新内容
+------------
 * V1.3
    * 2021-11-30：修改日期不更新bug，增加桌面模式,提醒功能,优化代码等
 * V1.2
